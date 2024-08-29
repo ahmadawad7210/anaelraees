@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: G">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/StartAppAdMobMediation-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
